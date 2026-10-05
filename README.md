@@ -12,8 +12,8 @@
 
 | Файл | Когда ставить |
 | --- | --- |
-| `ПереносДанных-со-встроенным-NET.exe` | Обычный случай. .NET ставить не нужно. |
-| `ПереносДанных-без-NET.exe` | Если на компьютере уже есть [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/10.0). Файл меньше. |
+| `PerenosDannyh-so-vstroennym-NET.exe` | Обычный случай. .NET ставить не нужно. |
+| `PerenosDannyh-bez-NET.exe` | Если на компьютере уже есть [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/10.0). Файл меньше. |
 
 Нужна 64-разрядная Windows.
 
